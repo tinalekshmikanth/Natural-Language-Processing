@@ -1,0 +1,15 @@
+Premise: Twitter is an online social networking and microblogging service with about 500 million tweets being sent per day. These tweets can be used by companies to market products, understand Brand equity, understand customer’s product reviews, etc.
+Aim: Analysing twitter data related to a product in order to track the sentiment being expressed as part of brand perception study using a data processing engine pipeline developed in the Hadoop ecosystem.
+  Data source: Twitter ; Tools: Hadoop and R Work Flow:
+          Data Collection using Twitter API
+Data Import into HDFS
+Data Pre- processing
+Generating Text Statistics
+Performing sentiment analysis
+Insights Summary
+Output: Provide overall sentiment score and distribution of sentiment polarity along with word frequency distributions and word cloud visualizations for a particular product on twitter.
+Citations:
+1. Z. Zhao, Zheng Feng, Yong Zhang, Li Ning, J. Fan and S. Feng, "Collecting, managing and analyzing social networking data effectively," 2015 12th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD), Zhangjiajie, 2015, pp. 1642-1646.
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7382191&isnumber=7381900
+2. Shubham S Deshmukh, Harshal Joshi, Pranali Pandhare, Aniket More, Prof. Aniket M Junghare, “Twitter Data Analysis using R”, International Journal of Science, Engineering and Technology Research(IJSETR), Volume 6,Issue 4, April 2017, ISSN:2278-7798
+URL: http://ijsetr.org/wp-content/uploads/2017/04/IJSETR-VOL-6-ISSUE-4-504-507.pdf
